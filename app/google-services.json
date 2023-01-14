@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919404881295",
+    "project_id": "app-logindam",
+    "storage_bucket": "app-logindam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919404881295:android:6e6ddf076fde692caa97fa",
+        "android_client_info": {
+          "package_name": "com.christiancrespo.logindam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919404881295-6dnss6thjefdj0fc4dqfcudjk927ts3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAx_mzH35nP_d7Ov0FtiFKU2ZUBxC_DsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919404881295-6dnss6thjefdj0fc4dqfcudjk927ts3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
